@@ -1,0 +1,77 @@
+under unicsol
+
+
+
+As a Devops Engineer, my job roles is involved workimg very closely with senior architects , consultants and developers, including deploying product updates, identifying pre production issuesand day to daytargets by attending daliy stand-ups to meet the customer need
+
+As a part of solution review calls , I used to present the demo to the customers to get the feedback and implement the review comments. I recived postive feedback
+
+  about the work i delivered.
+
+
+.Expertize writing docker files to create custom docker images.
+
+. Dockerise applications by writing docker compose files.
+
+. Created and managed the infrastructure of large scale , highly avaliablity platform that supports 1000's of users.
+
+. Provisioned AWS resources (EC2,AMI,VPC,SG,S3,Route53,IAM policies,CloudFront etc) using Terraform.
+
+. Created multiple terraform modules to manage configurations, application services automate installation process for Web servers.
+
+. Created reproducible builds of kubernetes applications, templates, kuberentes manifests, provide set of configuration parameters to customize development.
+
+.  Implemented production ready,load balanced,highly avaliable,fault tolerant,auto scaling kuberenetes cloud infrastructure and microservices container orchestration created cluster ready using kubernetes.
+
+. Worked on creating many pods, replication controller, replica sets, services, deployments,labels,health checks and ingress by writing YAML files.
+
+
+Docklandscreative
+
+
+
+. Created GitLab CICD pipelines from source code to various test and productin environments.
+
+. Involved in devops process for build and deployment of a 3 tier web archiecture.
+ 
+
+. Handle work from inital stage of development to create branches, make developers follow standards.
+
+. Exprience in troubleshooting issues generated while build and deployments.
+
+
+
+
+
+
+Graduate Teaching Assistant
+
+. Delivering a number of practical sessions across a number of computing modules.
+
+. Preparing the necessary material for parctical secissions.
+
+. Supporting students with any module queries.
+
+. Carrying out any associated marking.
+
+. Taking part in module team meetings.
+
+
+
+
+about
+
+
+AWS Certified Cloud Practitioner Junior DevOps engineer with a passion for AWS and other cloud native tools. I've experience with Linux distros (ubuntu, Centos), using source code version control(git), implementing CI CD pipelines using Jenkins, containerisation with Docker , configuration management using Terraform, monitoring using Prometheus, scripting using bash, experience with AWS features such as IAM, Policies, VPC, S3, EC2 and ECS, 
+
+
+
+Having several years of experience as an Cloud, DevOps Engineer with AWS and Cloud services, looking for a great opportunity with a mid-large size firm where I can contribute towards upcoming technology innovations and manage key projects that impact the organisation as well as broaden my scope of learning from the organisations team members. A quick learner who picks up new technologies, methods and skills quickly. Have sound knowledge in Linux system administration. Experience in handling various OS like Windows, RHEL, Ubuntu and Kali
+
+. Creating build scripts, labeling, automating the build process and deploy process by using GitLab.
+
+
+
+
+
+
